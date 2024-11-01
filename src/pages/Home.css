@@ -1,0 +1,22 @@
+
+.container{
+  background-color: #ECDFCC;
+  border-style:none ;
+}
+.box{
+  background-color: #ffffff;
+  border: #e49217;
+  border-radius: 2%;
+
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around; /* Espaçamento ao redor dos cards */
+  flex-wrap: wrap; /* Permite que os cards se movam para a próxima linha, se necessário */
+}
+
+.card {
+  margin: 50px; /* Espaçamento entre os cards */
+  max-width: 345px; /* Largura máxima dos cards */
+}
