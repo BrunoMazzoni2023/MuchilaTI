@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MuchilaTI/static/css/main.13667b6e.css",
+    "main.js": "/MuchilaTI/static/js/main.ff1a05d2.js",
+    "index.html": "/MuchilaTI/index.html",
+    "main.13667b6e.css.map": "/MuchilaTI/static/css/main.13667b6e.css.map",
+    "main.ff1a05d2.js.map": "/MuchilaTI/static/js/main.ff1a05d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13667b6e.css",
+    "static/js/main.ff1a05d2.js"
+  ]
+}
